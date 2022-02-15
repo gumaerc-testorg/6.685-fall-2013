@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding course notes 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-685-electric-machines-fall-2013/2aec052d0c82b73a7b6c72d78f3a796d_MIT6_685F13_chapter6.pdf
+file: /media/courses/6-685-electric-machines-fall-2013/2aec052d0c82b73a7b6c72d78f3a796d_MIT6_685F13_chapter6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Course Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '6.685 Electric Machines, Course Notes 6: DC (Commutator) and Permanent Magnet
   Machines'

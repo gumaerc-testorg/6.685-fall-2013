@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: c29fb21f-78c1-d5f3-2da3-7a4fcd4e6791
 resourcetype: Document
 title: '6.685 Electric Machines, Course Notes 9: Synchronous Machine Simulation Models'
 uid: e180bd05-abb5-ace9-ede7-4973375eee37

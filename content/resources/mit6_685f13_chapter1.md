@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: c29fb21f-78c1-d5f3-2da3-7a4fcd4e6791
 resourcetype: Document
 title: '6.685 Electric Machines, Course Notes 1: Electromagnetic Forces'
 uid: 06deccf0-46b5-65a8-295e-5ada36b252df

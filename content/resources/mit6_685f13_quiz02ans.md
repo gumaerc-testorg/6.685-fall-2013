@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: cb43f394-88f7-22fc-3c65-612ee72731f0
 resourcetype: Document
 title: 6.685 Electric Machines, Quiz 2 Solutions
 uid: 14518729-bc05-9e1e-c4d6-c36cf6de97af

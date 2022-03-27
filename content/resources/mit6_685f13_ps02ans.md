@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ffb13f7-a392-e19a-3527-5c38a5aa7dc1
 resourcetype: Document
 title: 6.685 Electric Machines, Problem Set 2 Solutions
 uid: 45662425-0257-9275-cb62-808cf570c7e4

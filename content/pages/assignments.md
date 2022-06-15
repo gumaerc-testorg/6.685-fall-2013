@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course, solutions,
+  a supporting file, and guidelines for citations.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: 6ffb13f7-a392-e19a-3527-5c38a5aa7dc1
 ---
 
-The following are the assigned problem sets and solutions. Students are encouraged to read the relevant chapters or sections of the [Course Notes]({{< baseurl >}}/pages/course-notes) prior to attempting the problem sets in order to receive a better understanding of the concepts presented.
+The following are the assigned problem sets and solutions. Students are encouraged to read the relevant chapters or sections of the {{% resource_link c29fb21f-78c1-d5f3-2da3-7a4fcd4e6791 "Course Notes" %}} prior to attempting the problem sets in order to receive a better understanding of the concepts presented.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -24,107 +26,107 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 1 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps01)
+{{% resource_link 84e2550f-31ad-2fe8-37a3-a0657739e62b "Problem set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to problem set 1 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps01ans)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem set 2 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps02)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to problem set 2 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps02ans)
+{{% resource_link 7c2b5d15-deca-07ca-729b-6b30359ad665 "Solutions to problem set 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 3 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps03)
+{{% resource_link 9d5aaec4-4af1-5946-52e0-135475347803 "Problem set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to problem set 3 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps03ans)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem set 4 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps04)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to problem set 4 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps04ans)
+{{% resource_link 45662425-0257-9275-cb62-808cf570c7e4 "Solutions to problem set 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 5 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps05)
+{{% resource_link 9f694568-321d-7156-74a4-e1200370f38c "Problem set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to problem set 5 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps05ans)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem set 6 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps06)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to problem set 6 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps06ans)
+{{% resource_link ea3f819d-15ad-9cf3-dd35-fa60f4bda00b "Solutions to problem set 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 7 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps07)
+{{% resource_link 0b0ba670-dc56-d31f-49a6-da63b9495c1c "Problem set 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to problem set 7 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps07ans)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem set 8 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps08)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to problem set 8 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps08ans)
+{{% resource_link 554f990c-de58-a5ed-659f-8dd9afea6793 "Solutions to problem set 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 9 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps09)
+{{% resource_link 67ecdbef-9c93-c008-16ea-01a32f6425d8 "Problem set 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to problem set 9 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps09ans)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem set 10 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps10)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to problem set 10 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps10ans)
+{{% resource_link e8cfa53e-3645-c56a-b79a-b56ee1b1c67b "Solutions to problem set 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 11 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps11)
+{{% resource_link a0ad8391-3564-3101-1b34-6a1fdd6581ea "Problem set 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to problem set 11 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps11ans)
+{{% resource_link aa446a19-87ed-9ac4-58eb-3b8ef3178f77 "Solutions to problem set 6 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 079b5194-f57f-4a90-f6aa-027ea54c8925 "Problem set 7 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 545fb7b3-d497-bf8d-11c0-39d5e0f54b35 "Solutions to problem set 7 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link c050bcf8-6815-cbcc-b6f3-4d20139c285d "Problem set 8 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link b37ca24c-5573-d1a3-9454-97519b107eb3 "Solutions to problem set 8 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 4b16e7d3-9b4d-903a-ed3c-90a0c869ef22 "Problem set 9 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link ee954276-168a-d968-2113-ab26969c7743 "Solutions to problem set 9 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link a03f1e53-b79c-cf90-8a9c-179df55896f5 "Problem set 10 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 42c995f7-23c3-64ee-7092-636cd1323c6f "Solutions to problem set 10 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link cb98b77b-7910-f860-dd3a-ba7dde0c8e28 "Problem set 11 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 75825e10-9686-abbd-75d3-fd638114e7c8 "Solutions to problem set 11 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-For problem set 3, refer to the [excerpted steel data (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps03data). Courtesy of the Electric Motor Education and Research Foundation. Used with permission.
+For problem set 3, refer to the {{% resource_link 64bf1faf-0a97-3d96-0733-4321dd252794 "excerpted steel data (PDF)" %}}. Courtesy of the Electric Motor Education and Research Foundation. Used with permission.
 
 Please use the following citation when referring to the data:
 

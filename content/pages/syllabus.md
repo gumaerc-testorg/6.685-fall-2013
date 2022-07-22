@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, teaching philosophy,  and textbooks.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a3c80e1c-4652-03fb-5c1d-6387e9951df9
 ---
@@ -43,7 +47,7 @@ Completing the problem sets is the most important way of learning the material. 
 Textbook
 --------
 
-[Course Notes]({{< baseurl >}}/pages/course-notes) have been provided as the primary reference. There are also additional texts that might be of interest and used for future reference:
+{{% resource_link c29fb21f-78c1-d5f3-2da3-7a4fcd4e6791 "Course Notes" %}} have been provided as the primary reference. There are also additional texts that might be of interest and used for future reference:
 
 Fitzgerald, A. E., Charles Kingsley, Jr., and Stephen D. Umans. _Electric Machinery_. 6th ed. McGraw-Hill, 2007. ISBN: 9780071230100.
 

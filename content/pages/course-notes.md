@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'This section provides the course notes as the primary reference for
+  the course. The notes are organized in chapters, though the chapters may not correspond
+  precisely with the order of the material as discussed in lecture.  '
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Course Notes
 uid: c29fb21f-78c1-d5f3-2da3-7a4fcd4e6791
 ---
@@ -24,7 +30,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Electromagnetic Forces (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter1)
+{{% resource_link 06deccf0-46b5-65a8-295e-5ada36b252df "Electromagnetic Forces (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +39,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Magnetic Circuit Basics (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter2)
+{{% resource_link aa1c6b0c-f5de-1f6f-8111-ab1a4b39e2d3 "Magnetic Circuit Basics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +48,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Eddy Currents, Surface Impedances and Loss Mechanisms (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter3)
+{{% resource_link 73ce73e3-a02b-085d-00df-37882e7636fe "Eddy Currents, Surface Impedances and Loss Mechanisms (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +57,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Elementary Synchronous Machine Models (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter4)
+{{% resource_link a10eb941-769a-0f5f-a6a7-460a8a7bb201 "Elementary Synchronous Machine Models (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +66,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Winding Inductances (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter5)
+{{% resource_link dfdada37-21c1-a7a2-6637-d0df45ebb08c "Winding Inductances (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +75,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[DC (Commutator) and Permanent Magnet Machiness (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter6)
+{{% resource_link 2aec052d-0c82-b73a-7b6c-72d78f3a796d "DC (Commutator) and Permanent Magnet Machiness (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +84,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Permanent Magnet "Brushless DC" Motors (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter7)
+{{% resource_link c5edfb0f-28f7-c1b1-b4d1-588f179074c6 "Permanent Magnet \"Brushless DC\" Motors (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +93,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Analytic Design Evaluation of Induction Machines (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter8)
+{{% resource_link 0de9b020-130c-6190-30b6-31311d920070 "Analytic Design Evaluation of Induction Machines (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +102,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Synchronous Machine Simulation Models (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter9)
+{{% resource_link e180bd05-abb5-ace9-ede7-4973375eee37 "Synchronous Machine Simulation Models (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +111,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Induction Machine Control and Simulation (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter10)
+{{% resource_link d834469b-d6c3-f56c-6bec-451d76176156 "Induction Machine Control and Simulation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +120,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Design Synthesis and Optimization (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter11)
+{{% resource_link bd87cdf2-40fd-1700-4769-cdb745b43bd8 "Design Synthesis and Optimization (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +129,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Single Phase Induction Motors, Modeling of Inductances and Resistances (PDF)]({{< baseurl >}}/resources/mit6_685f13_chapter12)
+{{% resource_link 68c5951b-80b2-480b-6d02-bfd08d416ad6 "Single Phase Induction Motors, Modeling of Inductances and Resistances (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

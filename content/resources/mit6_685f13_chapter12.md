@@ -5,6 +5,7 @@ file: /courses/6-685-electric-machines-fall-2013/68c5951b80b2480b6d02bfd08d416ad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.685 Electric Machines, Course Notes 12: Single Phase Induction Motors,
 uid: 68c5951b-80b2-480b-6d02-bfd08d416ad6
 ---
 This file contains information regarding course notes 12.
-

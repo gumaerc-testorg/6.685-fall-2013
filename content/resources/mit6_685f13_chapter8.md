@@ -5,6 +5,7 @@ file: /courses/6-685-electric-machines-fall-2013/0de9b020130c619030b631311d92007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.685 Electric Machines, Course Notes 8: Analytic Design Evaluation of I
 uid: 0de9b020-130c-6190-30b6-31311d920070
 ---
 This file contains information regarding course notes 8.
-

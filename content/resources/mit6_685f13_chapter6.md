@@ -5,6 +5,7 @@ file: /courses/6-685-electric-machines-fall-2013/2aec052d0c82b73a7b6c72d78f3a796
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.685 Electric Machines, Course Notes 6: DC (Commutator) and Permanent M
 uid: 2aec052d-0c82-b73a-7b6c-72d78f3a796d
 ---
 This file contains information regarding course notes 6.
-

@@ -5,6 +5,7 @@ file: /courses/6-685-electric-machines-fall-2013/a10eb941769a0f5fa6a7460a8a7bb20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.685 Electric Machines, Course Notes 4: Elementary Synchronous Machine 
 uid: a10eb941-769a-0f5f-a6a7-460a8a7bb201
 ---
 This file contains information regarding course notes 4.
-

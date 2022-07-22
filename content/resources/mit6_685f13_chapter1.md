@@ -5,6 +5,7 @@ file: /courses/6-685-electric-machines-fall-2013/06deccf046b565a8295e5ada36b252d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.685 Electric Machines, Course Notes 1: Electromagnetic Forces'
 uid: 06deccf0-46b5-65a8-295e-5ada36b252df
 ---
 This file contains information regarding course notes 1.
-

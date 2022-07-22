@@ -5,6 +5,7 @@ file: /courses/6-685-electric-machines-fall-2013/42c995f723c364ee7092636cd1323c6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6.685 Electric Machines, Problem Set 10 Solutions
 uid: 42c995f7-23c3-64ee-7092-636cd1323c6f
 ---
 This file contains information regarding problem set 10 solution.
-

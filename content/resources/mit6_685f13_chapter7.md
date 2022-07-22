@@ -5,6 +5,7 @@ file: /courses/6-685-electric-machines-fall-2013/c5edfb0f28f7c1b1b4d1588f179074c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "6.685 Electric Machines, Course Notes 7: Permanent Magnet \u201CBrushles
 uid: c5edfb0f-28f7-c1b1-b4d1-588f179074c6
 ---
 This file contains information regarding course notes 7.
-

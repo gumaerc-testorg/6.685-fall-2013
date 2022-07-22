@@ -5,6 +5,7 @@ file: /courses/6-685-electric-machines-fall-2013/aa1c6b0cf5de1f6f8111ab1a4b39e2d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.685 Electric Machines, Course Notes 2: Magnetic Circuit Basics'
 uid: aa1c6b0c-f5de-1f6f-8111-ab1a4b39e2d3
 ---
 This file contains information regarding course notes 2.
-

@@ -5,6 +5,7 @@ file: /courses/6-685-electric-machines-fall-2013/14518729bc059e1ec4d6c36cf6de97a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6.685 Electric Machines, Quiz 2 Solutions
 uid: 14518729-bc05-9e1e-c4d6-c36cf6de97af
 ---
 This file contains information regarding quiz 2 solution.
-

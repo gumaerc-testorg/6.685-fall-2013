@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-685-electric-machines-fall-2013/3b3be506ac999d8bd55c35c3291afd1d_6-685_stat-students.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''

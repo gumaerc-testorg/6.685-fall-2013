@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding course notes 10.
 file: /courses/6-685-electric-machines-fall-2013/d834469bd6c3f56c6bec451d76176156_MIT6_685F13_chapter10.pdf
+file_size: 171638
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

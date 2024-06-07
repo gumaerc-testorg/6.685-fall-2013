@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 10 solution.
 file: /courses/6-685-electric-machines-fall-2013/42c995f723c364ee7092636cd1323c6f_MIT6_685F13_ps10ans.pdf
+file_size: 348775
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 7 solution.
-file: /courses/6-685-electric-machines-fall-2013/545fb7b3d497bf8d11c039d5e0f54b35_MIT6_685F13_ps07ans.pdf
+file: /ol-ocw-studio-app/courses/6-685-electric-machines-fall-2013/545fb7b3d497bf8d11c039d5e0f54b35_MIT6_685F13_ps07ans.pdf
 file_size: 217912
 file_type: application/pdf
 learning_resource_types:

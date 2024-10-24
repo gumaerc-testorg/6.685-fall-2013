@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding quiz 1 solution.
-file: /courses/6-685-electric-machines-fall-2013/34d436947511dc5a2a2d1278fa30f855_MIT6_685F13_quiz01ans.pdf
+file: /ol-ocw-studio-app/courses/6-685-electric-machines-fall-2013/34d436947511dc5a2a2d1278fa30f855_MIT6_685F13_quiz01ans.pdf
 file_size: 577181
 file_type: application/pdf
 learning_resource_types:

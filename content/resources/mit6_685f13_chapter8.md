@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding course notes 8.
-file: /ol-ocw-studio-app/courses/6-685-electric-machines-fall-2013/0de9b020130c619030b631311d920070_MIT6_685F13_chapter8.pdf
+file: /courses/6-685-electric-machines-fall-2013/0de9b020130c619030b631311d920070_MIT6_685F13_chapter8.pdf
 file_size: 342512
 file_type: application/pdf
 learning_resource_types:

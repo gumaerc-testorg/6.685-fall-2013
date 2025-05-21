@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 3 solution.
-file: /ol-ocw-studio-app/courses/6-685-electric-machines-fall-2013/ea3f819d15ad9cf3dd35fa60f4bda00b_MIT6_685F13_ps03ans.pdf
+file: /courses/6-685-electric-machines-fall-2013/ea3f819d15ad9cf3dd35fa60f4bda00b_MIT6_685F13_ps03ans.pdf
 file_size: 155873
 file_type: application/pdf
 learning_resource_types:

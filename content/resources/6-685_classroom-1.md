@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-685-electric-machines-fall-2013/121c3a123768da90f82ef7cb2003da09_6-685_classroom-1.jpg
+file: /courses/6-685-electric-machines-fall-2013/121c3a123768da90f82ef7cb2003da09_6-685_classroom-1.jpg
 file_size: 53303
 file_type: image/jpeg
 image_metadata:

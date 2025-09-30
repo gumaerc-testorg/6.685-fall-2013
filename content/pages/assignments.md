@@ -132,6 +132,6 @@ Please use the following citation when referring to the data:
 
 Sprague, Steve, editor. 2007. _Lamination Steels Third Edition, A Compendium of Lamination Steel Alloys Commonly Used in Electric Motors_. South Dartmouth, Massachusetts: The Electric Motor Education and Research Foundation. CD-ROM. Non-Oriented Silicon Steels: AK Steel Di-Max M-19, Fully Processed, 0.014 inch (0.36 mm, 29 gauge), MIT OCW Excerpts.
 
-_Lamination Steels Third Edition_ is © 2007 by the [Electric Motor Education and Research Foundation](http://www.smma.org/emerf-overview.htm). Information about the complete CD-ROM can be obtained from:
+_Lamination Steels Third Edition_ is © 2007 by the {{% resource_link "afd6c2b8-0f6e-421d-b05c-9ab71c578b3b" "Electric Motor Education and Research Foundation" %}}. Information about the complete CD-ROM can be obtained from:
 
-[The Electric Motor Education and Research Foundation](http://www.smma.org/), Post Office Box P182, South Dartmouth, Massachusetts 02748 USA tel: 508.979.5935 fax: 508.979.5845 email: info@smma.org
+{{% resource_link "d6976b57-34e7-4958-a9cb-c990cf9d0d7e" "The Electric Motor Education and Research Foundation" %}}, Post Office Box P182, South Dartmouth, Massachusetts 02748 USA tel: 508.979.5935 fax: 508.979.5845 email: info@smma.org

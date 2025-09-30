@@ -42,7 +42,7 @@ Teaching Philosophy
 
 The subject audience is graduate students at MIT. We assume that the students are smart and self-motivated, require little hand-holding and know when to seek help. The three hours of lecture per week move relatively fast. Heavy emphasis is placed on the assignments, with a mix of problems from textbooks and others suggested by current research. There are also two quizzes and a three-hour final exam.
 
-Completing the problem sets is the most important way of learning the material. The problem sets will require some heavy lifting and you may want to have a program to help out. [MATLAB®](http://www.mathworks.com/products/matlab/) is recommended, and is used in the solution sets. [Freemat](http://freemat.sourceforge.net/), a public domain program, is another possibility, as are [Maple™](http://www.maplesoft.com/products/maple/), [PTC Mathcad®](http://www.ptc.com/product/mathcad/), etc.
+Completing the problem sets is the most important way of learning the material. The problem sets will require some heavy lifting and you may want to have a program to help out. {{% resource_link "d7e08349-55c3-464b-a86b-f4da3e9e3978" "MATLAB®" %}} is recommended, and is used in the solution sets. {{% resource_link "ae3c497c-7559-41f1-8b7c-63b3d530c68b" "Freemat" %}}, a public domain program, is another possibility, as are {{% resource_link "a0a2bda1-9e5a-4f75-8119-237c021de85d" "Maple™" %}}, {{% resource_link "5723f3d0-894b-4f5a-8510-86abee707149" "PTC Mathcad®" %}}, etc.
 
 Textbook
 --------
@@ -53,7 +53,7 @@ Fitzgerald, A. E., Charles Kingsley, Jr., and Stephen D. Umans. _Electric Machin
 
 This book is useful for background, has some good explanations and pictures of machines. It is, however not very analytical. You probably will not need it, but you might want to own it if you anticipate working in the field.
 
-Kirtley Jr., James L. _Electric Power Principles: Sources, Conversion, Distribution and Use_. Wiley, 2010. ISBN: 9780470686362. \[Preview with [Google Books](http://books.google.com/books?id=YY9TGX11En8C&pg=PAfrontcover)\]
+Kirtley Jr., James L. _Electric Power Principles: Sources, Conversion, Distribution and Use_. Wiley, 2010. ISBN: 9780470686362. \[Preview with {{% resource_link "83fd7527-f606-4fa4-b7b0-9d72e7240e36" "Google Books" %}}\]
 
 This is the textbook for [_6.061/6.690 Introduction to Electric Power Systems_](/courses/6-061-introduction-to-electric-power-systems-spring-2011). It covers three-wire power and has a relatively gentle introduction to electric machines.
 
